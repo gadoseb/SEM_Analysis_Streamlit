@@ -214,12 +214,3 @@ if uploaded_file is not None:
 
     else:
         st.write("No white block detected. Please ensure the reference block is clearly visible.")
-
-
-
-
-
-
-
-
-
