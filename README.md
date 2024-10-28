@@ -29,21 +29,22 @@ To run this application, ensure you have the following Python packages installed
 
 You can install the required packages using pip:
 
-```bash
+```
 pip install streamlit numpy pandas opencv-python scikit-image matplotlib
+```
 
 ## How to Run the Application
 
 1. Clone this repository to your local machine:
     
-    ```bash
+    ```
     git clone https://github.com/gadoseb/SEM_Analysis_Streamlit.git
     cd SEM_Analysis_Streamlit   
     ```
     
 2. Run the Streamlit application:
     
-    ```bash
+    ```
     streamlit run app.py
     ```
     
